@@ -44,7 +44,7 @@ Backup do banco de dados da loja usado em `exercicios-loja.sql`, incluindo:
 
 ---
 
-Todos os códigos foram feitos no **PostgreSQL**. Aqui você vai ver consultas de análise de dados de empresas e lojas, manipulação de dados mais complexos e funções de janela. Ah, e finalizei a matéria com sucesso na **UNIFEI**! 🎓🚀
+Todos os códigos foram feitos no **PostgreSQL**. Aqui você vai ver consultas de análise de dados de empresas e lojas, manipulação de dados mais complexos e funções de janela. Ah, e já finalizei a matéria com sucesso na **UNIFEI**! 🎓🚀
 
 ## Como usar 🛠️
 1. Instale o **PostgreSQL** no seu computador.
