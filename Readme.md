@@ -54,4 +54,4 @@ Todos os códigos foram feitos no **PostgreSQL**. Aqui você vai ver consultas d
 
 Clonar Repositório:
 ```bash
-git clone https://github.com/Lucasskyher/SQL.git
+git clone https://github.com/Lucasskyher/SQL-Analise-de-Dados.git
